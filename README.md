@@ -8,4 +8,5 @@ This repository contains Batch scripts for automating repetitive tasks on a Wind
 It is important to note that machine configurations are different. Therefore, the scripts in this repo are not meant to be downloaded and run, but to be used as guides for building your automation.
 
 ## **Contribution**
-- Please contribute your automation scripts by submitting a PR
+- You can contribute automation scripts by submitting a PR.
+- You can also raise an issue.
